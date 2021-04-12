@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Imc</string>
+    <string name="hello_world">Olá mundo</string>
+    <string name="hi_radio">Hello Radion</string>
+    <string name="hi_check">Hello Check</string>
+    <string name="insira_seu_peso_em_kg">Insira seu peso em KG ex. (65)</string>
+    <string name="calcular">Calcular</string>
+    <string name="insira_sua_altura_em_cm">Insira sua altura em cm ex.(1.70 )</string>
+</resources>
